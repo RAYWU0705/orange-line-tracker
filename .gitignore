@@ -3,3 +3,12 @@ __pycache__/
 *.pyc
 sources.json
 .env
+
+# 本機憑證與備份
+.env.*
+!.env.example
+*.sqlite3*
+access-key.txt
+*credentials*.json
+*secret*.json
+*.zip
