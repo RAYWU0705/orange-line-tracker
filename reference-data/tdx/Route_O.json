@@ -1,0 +1,126 @@
+[
+  {
+    "RouteID": "O-1",
+    "OperatorCode": "TRTC",
+    "RouteName": {
+      "Zh_tw": "南勢角－迴龍",
+      "En": "Nanshijiao - Huilong"
+    },
+    "RailRouteType": 33,
+    "LineNo": "O",
+    "LineID": "O",
+    "Direction": 0,
+    "StartStationID": "O01",
+    "StartStationName": {
+      "Zh_tw": "南勢角",
+      "En": "Nanshijiao",
+      "Ja": "南勢角",
+      "Ko": "난스자오"
+    },
+    "EndStationID": "O21",
+    "EndStationName": {
+      "Zh_tw": "迴龍",
+      "En": "Huilong",
+      "Ja": "迴龍",
+      "Ko": "후이룽"
+    },
+    "TravelTime": 48,
+    "RouteLength": 0,
+    "SrcUpdateTime": "2022-05-23T00:00:00+08:00",
+    "UpdateTime": "2022-05-23T08:00:00+08:00",
+    "VersionID": 3
+  },
+  {
+    "RouteID": "O-1",
+    "OperatorCode": "TRTC",
+    "RouteName": {
+      "Zh_tw": "迴龍－南勢角",
+      "En": "Huilong - Nanshijiao"
+    },
+    "RailRouteType": 33,
+    "LineNo": "O",
+    "LineID": "O",
+    "Direction": 1,
+    "StartStationID": "O21",
+    "StartStationName": {
+      "Zh_tw": "迴龍",
+      "En": "Huilong",
+      "Ja": "迴龍",
+      "Ko": "후이룽"
+    },
+    "EndStationID": "O01",
+    "EndStationName": {
+      "Zh_tw": "南勢角",
+      "En": "Nanshijiao",
+      "Ja": "南勢角",
+      "Ko": "난스자오"
+    },
+    "TravelTime": 48,
+    "RouteLength": 0,
+    "SrcUpdateTime": "2022-05-23T00:00:00+08:00",
+    "UpdateTime": "2022-05-23T08:00:00+08:00",
+    "VersionID": 3
+  },
+  {
+    "RouteID": "O-2",
+    "OperatorCode": "TRTC",
+    "RouteName": {
+      "Zh_tw": "南勢角－蘆洲",
+      "En": "Nanshijiao - Luzhou"
+    },
+    "RailRouteType": 33,
+    "LineNo": "O",
+    "LineID": "O",
+    "Direction": 0,
+    "StartStationID": "O01",
+    "StartStationName": {
+      "Zh_tw": "南勢角",
+      "En": "Nanshijiao",
+      "Ja": "南勢角",
+      "Ko": "난스자오"
+    },
+    "EndStationID": "O54",
+    "EndStationName": {
+      "Zh_tw": "蘆洲",
+      "En": "Luzhou",
+      "Ja": "蘆洲",
+      "Ko": "루저우"
+    },
+    "TravelTime": 38,
+    "RouteLength": 0,
+    "SrcUpdateTime": "2022-05-23T00:00:00+08:00",
+    "UpdateTime": "2022-05-23T08:00:00+08:00",
+    "VersionID": 3
+  },
+  {
+    "RouteID": "O-2",
+    "OperatorCode": "TRTC",
+    "RouteName": {
+      "Zh_tw": "蘆洲－南勢角",
+      "En": "Luzhou - Nanshijiao"
+    },
+    "RailRouteType": 33,
+    "LineNo": "O",
+    "LineID": "O",
+    "Direction": 1,
+    "StartStationID": "O54",
+    "StartStationName": {
+      "Zh_tw": "蘆洲",
+      "En": "Luzhou",
+      "Ja": "蘆洲",
+      "Ko": "루저우"
+    },
+    "EndStationID": "O01",
+    "EndStationName": {
+      "Zh_tw": "南勢角",
+      "En": "Nanshijiao",
+      "Ja": "南勢角",
+      "Ko": "난스자오"
+    },
+    "TravelTime": 38,
+    "RouteLength": 0,
+    "SrcUpdateTime": "2022-05-23T00:00:00+08:00",
+    "UpdateTime": "2022-05-23T08:00:00+08:00",
+    "VersionID": 3
+  }
+]

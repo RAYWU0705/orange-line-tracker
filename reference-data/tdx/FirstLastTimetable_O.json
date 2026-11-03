@@ -1,0 +1,2137 @@
+[
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O01",
+    "StationName": {
+      "Zh_tw": "南勢角",
+      "En": "Nanshijiao",
+      "Ja": "南勢角",
+      "Ko": "난스자오"
+    },
+    "TripHeadSign": "往迴龍",
+    "DestinationStaionID": "O21",
+    "DestinationStationName": {
+      "Zh_tw": "迴龍",
+      "En": "Huilong",
+      "Ja": "迴龍",
+      "Ko": "후이룽"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:00",
+    "LastTrainTime": "00:00",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O01",
+    "StationName": {
+      "Zh_tw": "南勢角",
+      "En": "Nanshijiao",
+      "Ja": "南勢角",
+      "Ko": "난스자오"
+    },
+    "TripHeadSign": "往蘆洲",
+    "DestinationStaionID": "O54",
+    "DestinationStationName": {
+      "Zh_tw": "蘆洲",
+      "En": "Luzhou",
+      "Ja": "蘆洲",
+      "Ko": "루저우"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:04",
+    "LastTrainTime": "00:04",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O02",
+    "StationName": {
+      "Zh_tw": "景安",
+      "En": "Jingan",
+      "Ja": "景安",
+      "Ko": "징안"
+    },
+    "TripHeadSign": "往南勢角",
+    "DestinationStaionID": "O01",
+    "DestinationStationName": {
+      "Zh_tw": "南勢角",
+      "En": "Nanshijiao",
+      "Ja": "南勢角",
+      "Ko": "난스자오"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:01",
+    "LastTrainTime": "01:05",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O02",
+    "StationName": {
+      "Zh_tw": "景安",
+      "En": "Jingan",
+      "Ja": "景安",
+      "Ko": "징안"
+    },
+    "TripHeadSign": "往迴龍",
+    "DestinationStaionID": "O21",
+    "DestinationStationName": {
+      "Zh_tw": "迴龍",
+      "En": "Huilong",
+      "Ja": "迴龍",
+      "Ko": "후이룽"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:01",
+    "LastTrainTime": "00:10",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O02",
+    "StationName": {
+      "Zh_tw": "景安",
+      "En": "Jingan",
+      "Ja": "景安",
+      "Ko": "징안"
+    },
+    "TripHeadSign": "往蘆洲",
+    "DestinationStaionID": "O54",
+    "DestinationStationName": {
+      "Zh_tw": "蘆洲",
+      "En": "Luzhou",
+      "Ja": "蘆洲",
+      "Ko": "루저우"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:05",
+    "LastTrainTime": "00:06",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O03",
+    "StationName": {
+      "Zh_tw": "永安市場",
+      "En": "Yongan Market",
+      "Ja": "永安市場",
+      "Ko": "융안 시장"
+    },
+    "TripHeadSign": "往南勢角",
+    "DestinationStaionID": "O01",
+    "DestinationStationName": {
+      "Zh_tw": "南勢角",
+      "En": "Nanshijiao",
+      "Ja": "南勢角",
+      "Ko": "난스자오"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:00",
+    "LastTrainTime": "01:04",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O03",
+    "StationName": {
+      "Zh_tw": "永安市場",
+      "En": "Yongan Market",
+      "Ja": "永安市場",
+      "Ko": "융안 시장"
+    },
+    "TripHeadSign": "往迴龍",
+    "DestinationStaionID": "O21",
+    "DestinationStationName": {
+      "Zh_tw": "迴龍",
+      "En": "Huilong",
+      "Ja": "迴龍",
+      "Ko": "후이룽"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:03",
+    "LastTrainTime": "00:12",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O03",
+    "StationName": {
+      "Zh_tw": "永安市場",
+      "En": "Yongan Market",
+      "Ja": "永安市場",
+      "Ko": "융안 시장"
+    },
+    "TripHeadSign": "往蘆洲",
+    "DestinationStaionID": "O54",
+    "DestinationStationName": {
+      "Zh_tw": "蘆洲",
+      "En": "Luzhou",
+      "Ja": "蘆洲",
+      "Ko": "루저우"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:00",
+    "LastTrainTime": "00:08",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O04",
+    "StationName": {
+      "Zh_tw": "頂溪",
+      "En": "Dingxi",
+      "Ja": "頂渓",
+      "Ko": "딩시"
+    },
+    "TripHeadSign": "往南勢角",
+    "DestinationStaionID": "O01",
+    "DestinationStationName": {
+      "Zh_tw": "南勢角",
+      "En": "Nanshijiao",
+      "Ja": "南勢角",
+      "Ko": "난스자오"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:03",
+    "LastTrainTime": "01:02",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O04",
+    "StationName": {
+      "Zh_tw": "頂溪",
+      "En": "Dingxi",
+      "Ja": "頂渓",
+      "Ko": "딩시"
+    },
+    "TripHeadSign": "往迴龍",
+    "DestinationStaionID": "O21",
+    "DestinationStationName": {
+      "Zh_tw": "迴龍",
+      "En": "Huilong",
+      "Ja": "迴龍",
+      "Ko": "후이룽"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:05",
+    "LastTrainTime": "00:15",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O04",
+    "StationName": {
+      "Zh_tw": "頂溪",
+      "En": "Dingxi",
+      "Ja": "頂渓",
+      "Ko": "딩시"
+    },
+    "TripHeadSign": "往蘆洲",
+    "DestinationStaionID": "O54",
+    "DestinationStationName": {
+      "Zh_tw": "蘆洲",
+      "En": "Luzhou",
+      "Ja": "蘆洲",
+      "Ko": "루저우"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:02",
+    "LastTrainTime": "00:10",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O05",
+    "StationName": {
+      "Zh_tw": "古亭",
+      "En": "Guting",
+      "Ja": "古亭",
+      "Ko": "구팅"
+    },
+    "TripHeadSign": "往南勢角",
+    "DestinationStaionID": "O01",
+    "DestinationStationName": {
+      "Zh_tw": "南勢角",
+      "En": "Nanshijiao",
+      "Ja": "南勢角",
+      "Ko": "난스자오"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:00",
+    "LastTrainTime": "00:58",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O05",
+    "StationName": {
+      "Zh_tw": "古亭",
+      "En": "Guting",
+      "Ja": "古亭",
+      "Ko": "구팅"
+    },
+    "TripHeadSign": "往迴龍",
+    "DestinationStaionID": "O21",
+    "DestinationStationName": {
+      "Zh_tw": "迴龍",
+      "En": "Huilong",
+      "Ja": "迴龍",
+      "Ko": "후이룽"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:00",
+    "LastTrainTime": "00:33",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O05",
+    "StationName": {
+      "Zh_tw": "古亭",
+      "En": "Guting",
+      "Ja": "古亭",
+      "Ko": "구팅"
+    },
+    "TripHeadSign": "往蘆洲",
+    "DestinationStaionID": "O54",
+    "DestinationStationName": {
+      "Zh_tw": "蘆洲",
+      "En": "Luzhou",
+      "Ja": "蘆洲",
+      "Ko": "루저우"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:06",
+    "LastTrainTime": "00:29",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O06",
+    "StationName": {
+      "Zh_tw": "東門",
+      "En": "Dongmen",
+      "Ja": "東門",
+      "Ko": "둥먼"
+    },
+    "TripHeadSign": "往南勢角",
+    "DestinationStaionID": "O01",
+    "DestinationStationName": {
+      "Zh_tw": "南勢角",
+      "En": "Nanshijiao",
+      "Ja": "南勢角",
+      "Ko": "난스자오"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:03",
+    "LastTrainTime": "00:54",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O06",
+    "StationName": {
+      "Zh_tw": "東門",
+      "En": "Dongmen",
+      "Ja": "東門",
+      "Ko": "둥먼"
+    },
+    "TripHeadSign": "往迴龍",
+    "DestinationStaionID": "O21",
+    "DestinationStationName": {
+      "Zh_tw": "迴龍",
+      "En": "Huilong",
+      "Ja": "迴龍",
+      "Ko": "후이룽"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:03",
+    "LastTrainTime": "00:36",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O06",
+    "StationName": {
+      "Zh_tw": "東門",
+      "En": "Dongmen",
+      "Ja": "東門",
+      "Ko": "둥먼"
+    },
+    "TripHeadSign": "往蘆洲",
+    "DestinationStaionID": "O54",
+    "DestinationStationName": {
+      "Zh_tw": "蘆洲",
+      "En": "Luzhou",
+      "Ja": "蘆洲",
+      "Ko": "루저우"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:09",
+    "LastTrainTime": "00:32",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O07",
+    "StationName": {
+      "Zh_tw": "忠孝新生",
+      "En": "Zhongxiao Xinsheng",
+      "Ja": "忠孝新生",
+      "Ko": "중샤오 신성"
+    },
+    "TripHeadSign": "往南勢角",
+    "DestinationStaionID": "O01",
+    "DestinationStationName": {
+      "Zh_tw": "南勢角",
+      "En": "Nanshijiao",
+      "Ja": "南勢角",
+      "Ko": "난스자오"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:00",
+    "LastTrainTime": "00:52",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O07",
+    "StationName": {
+      "Zh_tw": "忠孝新生",
+      "En": "Zhongxiao Xinsheng",
+      "Ja": "忠孝新生",
+      "Ko": "중샤오 신성"
+    },
+    "TripHeadSign": "往迴龍",
+    "DestinationStaionID": "O21",
+    "DestinationStationName": {
+      "Zh_tw": "迴龍",
+      "En": "Huilong",
+      "Ja": "迴龍",
+      "Ko": "후이룽"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:06",
+    "LastTrainTime": "00:39",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O07",
+    "StationName": {
+      "Zh_tw": "忠孝新生",
+      "En": "Zhongxiao Xinsheng",
+      "Ja": "忠孝新生",
+      "Ko": "중샤오 신성"
+    },
+    "TripHeadSign": "往蘆洲",
+    "DestinationStaionID": "O54",
+    "DestinationStationName": {
+      "Zh_tw": "蘆洲",
+      "En": "Luzhou",
+      "Ja": "蘆洲",
+      "Ko": "루저우"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:00",
+    "LastTrainTime": "00:35",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O08",
+    "StationName": {
+      "Zh_tw": "松江南京",
+      "En": "Songjiang Nanjing",
+      "Ja": "松江南京",
+      "Ko": "송장 난징"
+    },
+    "TripHeadSign": "往南勢角",
+    "DestinationStaionID": "O01",
+    "DestinationStationName": {
+      "Zh_tw": "南勢角",
+      "En": "Nanshijiao",
+      "Ja": "南勢角",
+      "Ko": "난스자오"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:03",
+    "LastTrainTime": "00:50",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O08",
+    "StationName": {
+      "Zh_tw": "松江南京",
+      "En": "Songjiang Nanjing",
+      "Ja": "松江南京",
+      "Ko": "송장 난징"
+    },
+    "TripHeadSign": "往迴龍",
+    "DestinationStaionID": "O21",
+    "DestinationStationName": {
+      "Zh_tw": "迴龍",
+      "En": "Huilong",
+      "Ja": "迴龍",
+      "Ko": "후이룽"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:08",
+    "LastTrainTime": "00:41",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O08",
+    "StationName": {
+      "Zh_tw": "松江南京",
+      "En": "Songjiang Nanjing",
+      "Ja": "松江南京",
+      "Ko": "송장 난징"
+    },
+    "TripHeadSign": "往蘆洲",
+    "DestinationStaionID": "O54",
+    "DestinationStationName": {
+      "Zh_tw": "蘆洲",
+      "En": "Luzhou",
+      "Ja": "蘆洲",
+      "Ko": "루저우"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:02",
+    "LastTrainTime": "00:38",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O09",
+    "StationName": {
+      "Zh_tw": "行天宮",
+      "En": "Xingtian Temple",
+      "Ja": "行天宮",
+      "Ko": "싱톈궁"
+    },
+    "TripHeadSign": "往南勢角",
+    "DestinationStaionID": "O01",
+    "DestinationStationName": {
+      "Zh_tw": "南勢角",
+      "En": "Nanshijiao",
+      "Ja": "南勢角",
+      "Ko": "난스자오"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:01",
+    "LastTrainTime": "00:48",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O09",
+    "StationName": {
+      "Zh_tw": "行天宮",
+      "En": "Xingtian Temple",
+      "Ja": "行天宮",
+      "Ko": "싱톈궁"
+    },
+    "TripHeadSign": "往迴龍",
+    "DestinationStaionID": "O21",
+    "DestinationStationName": {
+      "Zh_tw": "迴龍",
+      "En": "Huilong",
+      "Ja": "迴龍",
+      "Ko": "후이룽"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:00",
+    "LastTrainTime": "00:43",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O09",
+    "StationName": {
+      "Zh_tw": "行天宮",
+      "En": "Xingtian Temple",
+      "Ja": "行天宮",
+      "Ko": "싱톈궁"
+    },
+    "TripHeadSign": "往蘆洲",
+    "DestinationStaionID": "O54",
+    "DestinationStationName": {
+      "Zh_tw": "蘆洲",
+      "En": "Luzhou",
+      "Ja": "蘆洲",
+      "Ko": "루저우"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:04",
+    "LastTrainTime": "00:40",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O10",
+    "StationName": {
+      "Zh_tw": "中山國小",
+      "En": "Zhongshan Elementary School",
+      "Ja": "中山小学校",
+      "Ko": "중산 초등학교"
+    },
+    "TripHeadSign": "往南勢角",
+    "DestinationStaionID": "O01",
+    "DestinationStationName": {
+      "Zh_tw": "南勢角",
+      "En": "Nanshijiao",
+      "Ja": "南勢角",
+      "Ko": "난스자오"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:00",
+    "LastTrainTime": "00:46",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O10",
+    "StationName": {
+      "Zh_tw": "中山國小",
+      "En": "Zhongshan Elementary School",
+      "Ja": "中山小学校",
+      "Ko": "중산 초등학교"
+    },
+    "TripHeadSign": "往迴龍",
+    "DestinationStaionID": "O21",
+    "DestinationStationName": {
+      "Zh_tw": "迴龍",
+      "En": "Huilong",
+      "Ja": "迴龍",
+      "Ko": "후이룽"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:02",
+    "LastTrainTime": "00:45",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O10",
+    "StationName": {
+      "Zh_tw": "中山國小",
+      "En": "Zhongshan Elementary School",
+      "Ja": "中山小学校",
+      "Ko": "중산 초등학교"
+    },
+    "TripHeadSign": "往蘆洲",
+    "DestinationStaionID": "O54",
+    "DestinationStationName": {
+      "Zh_tw": "蘆洲",
+      "En": "Luzhou",
+      "Ja": "蘆洲",
+      "Ko": "루저우"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:06",
+    "LastTrainTime": "00:42",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O11",
+    "StationName": {
+      "Zh_tw": "民權西路",
+      "En": "Minquan W. Rd.",
+      "Ja": "民権西路",
+      "Ko": "민취안시루"
+    },
+    "TripHeadSign": "往南勢角",
+    "DestinationStaionID": "O01",
+    "DestinationStationName": {
+      "Zh_tw": "南勢角",
+      "En": "Nanshijiao",
+      "Ja": "南勢角",
+      "Ko": "난스자오"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:01",
+    "LastTrainTime": "00:44",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O11",
+    "StationName": {
+      "Zh_tw": "民權西路",
+      "En": "Minquan W. Rd.",
+      "Ja": "民権西路",
+      "Ko": "민취안시루"
+    },
+    "TripHeadSign": "往迴龍",
+    "DestinationStaionID": "O21",
+    "DestinationStationName": {
+      "Zh_tw": "迴龍",
+      "En": "Huilong",
+      "Ja": "迴龍",
+      "Ko": "후이룽"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:04",
+    "LastTrainTime": "00:47",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O11",
+    "StationName": {
+      "Zh_tw": "民權西路",
+      "En": "Minquan W. Rd.",
+      "Ja": "民権西路",
+      "Ko": "민취안시루"
+    },
+    "TripHeadSign": "往蘆洲",
+    "DestinationStaionID": "O54",
+    "DestinationStationName": {
+      "Zh_tw": "蘆洲",
+      "En": "Luzhou",
+      "Ja": "蘆洲",
+      "Ko": "루저우"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:00",
+    "LastTrainTime": "00:44",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O12",
+    "StationName": {
+      "Zh_tw": "大橋頭",
+      "En": "Daqiaotou",
+      "Ja": "大橋頭",
+      "Ko": "다차오터우"
+    },
+    "TripHeadSign": "往南勢角",
+    "DestinationStaionID": "O01",
+    "DestinationStationName": {
+      "Zh_tw": "南勢角",
+      "En": "Nanshijiao",
+      "Ja": "南勢角",
+      "Ko": "난스자오"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:00",
+    "LastTrainTime": "00:29",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O12",
+    "StationName": {
+      "Zh_tw": "大橋頭",
+      "En": "Daqiaotou",
+      "Ja": "大橋頭",
+      "Ko": "다차오터우"
+    },
+    "TripHeadSign": "往迴龍",
+    "DestinationStaionID": "O21",
+    "DestinationStationName": {
+      "Zh_tw": "迴龍",
+      "En": "Huilong",
+      "Ja": "迴龍",
+      "Ko": "후이룽"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:06",
+    "LastTrainTime": "00:48",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O12",
+    "StationName": {
+      "Zh_tw": "大橋頭",
+      "En": "Daqiaotou",
+      "Ja": "大橋頭",
+      "Ko": "다차오터우"
+    },
+    "TripHeadSign": "往蘆洲",
+    "DestinationStaionID": "O54",
+    "DestinationStationName": {
+      "Zh_tw": "蘆洲",
+      "En": "Luzhou",
+      "Ja": "蘆洲",
+      "Ko": "루저우"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:02",
+    "LastTrainTime": "00:45",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O13",
+    "StationName": {
+      "Zh_tw": "台北橋",
+      "En": "Taipei Bridge",
+      "Ja": "台北橋",
+      "Ko": "타이베이 대교"
+    },
+    "TripHeadSign": "往南勢角",
+    "DestinationStaionID": "O01",
+    "DestinationStationName": {
+      "Zh_tw": "南勢角",
+      "En": "Nanshijiao",
+      "Ja": "南勢角",
+      "Ko": "난스자오"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:06",
+    "LastTrainTime": "00:27",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O13",
+    "StationName": {
+      "Zh_tw": "台北橋",
+      "En": "Taipei Bridge",
+      "Ja": "台北橋",
+      "Ko": "타이베이 대교"
+    },
+    "TripHeadSign": "往迴龍",
+    "DestinationStaionID": "O21",
+    "DestinationStationName": {
+      "Zh_tw": "迴龍",
+      "En": "Huilong",
+      "Ja": "迴龍",
+      "Ko": "후이룽"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:08",
+    "LastTrainTime": "00:51",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O14",
+    "StationName": {
+      "Zh_tw": "菜寮",
+      "En": "Cailiao",
+      "Ja": "菜寮",
+      "Ko": "차이랴오"
+    },
+    "TripHeadSign": "往南勢角",
+    "DestinationStaionID": "O01",
+    "DestinationStationName": {
+      "Zh_tw": "南勢角",
+      "En": "Nanshijiao",
+      "Ja": "南勢角",
+      "Ko": "난스자오"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:04",
+    "LastTrainTime": "00:25",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O14",
+    "StationName": {
+      "Zh_tw": "菜寮",
+      "En": "Cailiao",
+      "Ja": "菜寮",
+      "Ko": "차이랴오"
+    },
+    "TripHeadSign": "往迴龍",
+    "DestinationStaionID": "O21",
+    "DestinationStationName": {
+      "Zh_tw": "迴龍",
+      "En": "Huilong",
+      "Ja": "迴龍",
+      "Ko": "후이룽"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:00",
+    "LastTrainTime": "00:53",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O15",
+    "StationName": {
+      "Zh_tw": "三重",
+      "En": "Sanchong",
+      "Ja": "三重",
+      "Ko": "싼충"
+    },
+    "TripHeadSign": "往南勢角",
+    "DestinationStaionID": "O01",
+    "DestinationStationName": {
+      "Zh_tw": "南勢角",
+      "En": "Nanshijiao",
+      "Ja": "南勢角",
+      "Ko": "난스자오"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:02",
+    "LastTrainTime": "00:23",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O15",
+    "StationName": {
+      "Zh_tw": "三重",
+      "En": "Sanchong",
+      "Ja": "三重",
+      "Ko": "싼충"
+    },
+    "TripHeadSign": "往迴龍",
+    "DestinationStaionID": "O21",
+    "DestinationStationName": {
+      "Zh_tw": "迴龍",
+      "En": "Huilong",
+      "Ja": "迴龍",
+      "Ko": "후이룽"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:02",
+    "LastTrainTime": "00:55",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O16",
+    "StationName": {
+      "Zh_tw": "先嗇宮",
+      "En": "Xianse Temple",
+      "Ja": "先嗇宮",
+      "Ko": "셴써궁"
+    },
+    "TripHeadSign": "往南勢角",
+    "DestinationStaionID": "O01",
+    "DestinationStationName": {
+      "Zh_tw": "南勢角",
+      "En": "Nanshijiao",
+      "Ja": "南勢角",
+      "Ko": "난스자오"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:00",
+    "LastTrainTime": "00:20",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O16",
+    "StationName": {
+      "Zh_tw": "先嗇宮",
+      "En": "Xianse Temple",
+      "Ja": "先嗇宮",
+      "Ko": "셴써궁"
+    },
+    "TripHeadSign": "往迴龍",
+    "DestinationStaionID": "O21",
+    "DestinationStationName": {
+      "Zh_tw": "迴龍",
+      "En": "Huilong",
+      "Ja": "迴龍",
+      "Ko": "후이룽"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:04",
+    "LastTrainTime": "00:57",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O17",
+    "StationName": {
+      "Zh_tw": "頭前庄",
+      "En": "Touqianzhuang",
+      "Ja": "頭前庄",
+      "Ko": "터우첸좡"
+    },
+    "TripHeadSign": "往南勢角",
+    "DestinationStaionID": "O01",
+    "DestinationStationName": {
+      "Zh_tw": "南勢角",
+      "En": "Nanshijiao",
+      "Ja": "南勢角",
+      "Ko": "난스자오"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:04",
+    "LastTrainTime": "00:17",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O17",
+    "StationName": {
+      "Zh_tw": "頭前庄",
+      "En": "Touqianzhuang",
+      "Ja": "頭前庄",
+      "Ko": "터우첸좡"
+    },
+    "TripHeadSign": "往迴龍",
+    "DestinationStaionID": "O21",
+    "DestinationStationName": {
+      "Zh_tw": "迴龍",
+      "En": "Huilong",
+      "Ja": "迴龍",
+      "Ko": "후이룽"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:07",
+    "LastTrainTime": "00:59",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O18",
+    "StationName": {
+      "Zh_tw": "新莊",
+      "En": "Xinzhuang",
+      "Ja": "新荘",
+      "Ko": "신좡"
+    },
+    "TripHeadSign": "往南勢角",
+    "DestinationStaionID": "O01",
+    "DestinationStationName": {
+      "Zh_tw": "南勢角",
+      "En": "Nanshijiao",
+      "Ja": "南勢角",
+      "Ko": "난스자오"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:03",
+    "LastTrainTime": "00:08",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O18",
+    "StationName": {
+      "Zh_tw": "新莊",
+      "En": "Xinzhuang",
+      "Ja": "新荘",
+      "Ko": "신좡"
+    },
+    "TripHeadSign": "往迴龍",
+    "DestinationStaionID": "O21",
+    "DestinationStationName": {
+      "Zh_tw": "迴龍",
+      "En": "Huilong",
+      "Ja": "迴龍",
+      "Ko": "후이룽"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:00",
+    "LastTrainTime": "01:01",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O19",
+    "StationName": {
+      "Zh_tw": "輔大",
+      "En": "Fu Jen University",
+      "Ja": "輔仁大学",
+      "Ko": "푸런 대학교"
+    },
+    "TripHeadSign": "往南勢角",
+    "DestinationStaionID": "O01",
+    "DestinationStationName": {
+      "Zh_tw": "南勢角",
+      "En": "Nanshijiao",
+      "Ja": "南勢角",
+      "Ko": "난스자오"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:00",
+    "LastTrainTime": "00:05",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O19",
+    "StationName": {
+      "Zh_tw": "輔大",
+      "En": "Fu Jen University",
+      "Ja": "輔仁大学",
+      "Ko": "푸런 대학교"
+    },
+    "TripHeadSign": "往迴龍",
+    "DestinationStaionID": "O21",
+    "DestinationStationName": {
+      "Zh_tw": "迴龍",
+      "En": "Huilong",
+      "Ja": "迴龍",
+      "Ko": "후이룽"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:03",
+    "LastTrainTime": "01:04",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O20",
+    "StationName": {
+      "Zh_tw": "丹鳳",
+      "En": "Danfeng",
+      "Ja": "丹鳳",
+      "Ko": "단펑"
+    },
+    "TripHeadSign": "往南勢角",
+    "DestinationStaionID": "O01",
+    "DestinationStationName": {
+      "Zh_tw": "南勢角",
+      "En": "Nanshijiao",
+      "Ja": "南勢角",
+      "Ko": "난스자오"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:03",
+    "LastTrainTime": "00:03",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O20",
+    "StationName": {
+      "Zh_tw": "丹鳳",
+      "En": "Danfeng",
+      "Ja": "丹鳳",
+      "Ko": "단펑"
+    },
+    "TripHeadSign": "往迴龍",
+    "DestinationStaionID": "O21",
+    "DestinationStationName": {
+      "Zh_tw": "迴龍",
+      "En": "Huilong",
+      "Ja": "迴龍",
+      "Ko": "후이룽"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:00",
+    "LastTrainTime": "01:06",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O21",
+    "StationName": {
+      "Zh_tw": "迴龍",
+      "En": "Huilong",
+      "Ja": "迴龍",
+      "Ko": "후이룽"
+    },
+    "TripHeadSign": "往南勢角",
+    "DestinationStaionID": "O01",
+    "DestinationStationName": {
+      "Zh_tw": "南勢角",
+      "En": "Nanshijiao",
+      "Ja": "南勢角",
+      "Ko": "난스자오"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:00",
+    "LastTrainTime": "00:00",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O50",
+    "StationName": {
+      "Zh_tw": "三重國小",
+      "En": "Sanchong Elementary School",
+      "Ja": "三重小学校",
+      "Ko": "싼충 초등학교"
+    },
+    "TripHeadSign": "往南勢角",
+    "DestinationStaionID": "O01",
+    "DestinationStationName": {
+      "Zh_tw": "南勢角",
+      "En": "Nanshijiao",
+      "Ja": "南勢角",
+      "Ko": "난스자오"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:02",
+    "LastTrainTime": "00:09",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O50",
+    "StationName": {
+      "Zh_tw": "三重國小",
+      "En": "Sanchong Elementary School",
+      "Ja": "三重小学校",
+      "Ko": "싼충 초등학교"
+    },
+    "TripHeadSign": "往蘆洲",
+    "DestinationStaionID": "O54",
+    "DestinationStationName": {
+      "Zh_tw": "蘆洲",
+      "En": "Luzhou",
+      "Ja": "蘆洲",
+      "Ko": "루저우"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:05",
+    "LastTrainTime": "00:48",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O51",
+    "StationName": {
+      "Zh_tw": "三和國中",
+      "En": "Sanhe Junior High School",
+      "Ja": "三和中学校",
+      "Ko": "싼허 중학교"
+    },
+    "TripHeadSign": "往南勢角",
+    "DestinationStaionID": "O01",
+    "DestinationStationName": {
+      "Zh_tw": "南勢角",
+      "En": "Nanshijiao",
+      "Ja": "南勢角",
+      "Ko": "난스자오"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:00",
+    "LastTrainTime": "00:07",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O51",
+    "StationName": {
+      "Zh_tw": "三和國中",
+      "En": "Sanhe Junior High School",
+      "Ja": "三和中学校",
+      "Ko": "싼허 중학교"
+    },
+    "TripHeadSign": "往蘆洲",
+    "DestinationStaionID": "O54",
+    "DestinationStationName": {
+      "Zh_tw": "蘆洲",
+      "En": "Luzhou",
+      "Ja": "蘆洲",
+      "Ko": "루저우"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:07",
+    "LastTrainTime": "00:50",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O52",
+    "StationName": {
+      "Zh_tw": "徐匯中學",
+      "En": "St.lgnatius High School",
+      "Ja": "徐匯高校",
+      "Ko": "쉬후이 고등학교"
+    },
+    "TripHeadSign": "往南勢角",
+    "DestinationStaionID": "O01",
+    "DestinationStationName": {
+      "Zh_tw": "南勢角",
+      "En": "Nanshijiao",
+      "Ja": "南勢角",
+      "Ko": "난스자오"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:04",
+    "LastTrainTime": "00:05",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O52",
+    "StationName": {
+      "Zh_tw": "徐匯中學",
+      "En": "St.lgnatius High School",
+      "Ja": "徐匯高校",
+      "Ko": "쉬후이 고등학교"
+    },
+    "TripHeadSign": "往蘆洲",
+    "DestinationStaionID": "O54",
+    "DestinationStationName": {
+      "Zh_tw": "蘆洲",
+      "En": "Luzhou",
+      "Ja": "蘆洲",
+      "Ko": "루저우"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:00",
+    "LastTrainTime": "00:52",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O53",
+    "StationName": {
+      "Zh_tw": "三民高中",
+      "En": "Sanmin Senior High School",
+      "Ja": "三民高校",
+      "Ko": "싼민 고등학교"
+    },
+    "TripHeadSign": "往南勢角",
+    "DestinationStaionID": "O01",
+    "DestinationStationName": {
+      "Zh_tw": "南勢角",
+      "En": "Nanshijiao",
+      "Ja": "南勢角",
+      "Ko": "난스자오"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:02",
+    "LastTrainTime": "00:03",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O53",
+    "StationName": {
+      "Zh_tw": "三民高中",
+      "En": "Sanmin Senior High School",
+      "Ja": "三民高校",
+      "Ko": "싼민 고등학교"
+    },
+    "TripHeadSign": "往蘆洲",
+    "DestinationStaionID": "O54",
+    "DestinationStationName": {
+      "Zh_tw": "蘆洲",
+      "En": "Luzhou",
+      "Ja": "蘆洲",
+      "Ko": "루저우"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:02",
+    "LastTrainTime": "00:54",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  },
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "StationID": "O54",
+    "StationName": {
+      "Zh_tw": "蘆洲",
+      "En": "Luzhou",
+      "Ja": "蘆洲",
+      "Ko": "루저우"
+    },
+    "TripHeadSign": "往南勢角",
+    "DestinationStaionID": "O01",
+    "DestinationStationName": {
+      "Zh_tw": "南勢角",
+      "En": "Nanshijiao",
+      "Ja": "南勢角",
+      "Ko": "난스자오"
+    },
+    "TrainType": 0,
+    "FirstTrainTime": "06:00",
+    "LastTrainTime": "00:00",
+    "ServiceDay": {
+      "Monday": true,
+      "Tuesday": true,
+      "Wednesday": true,
+      "Thursday": true,
+      "Friday": true,
+      "Saturday": true,
+      "Sunday": true,
+      "NationalHolidays": true
+    },
+    "SrcUpdateTime": "2026-08-30T00:00:00+08:00",
+    "UpdateTime": "2026-09-16T18:13:33+08:00",
+    "VersionID": 5
+  }
+]
