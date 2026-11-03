@@ -1,0 +1,15 @@
+services:
+  tracker:
+    build: .
+    ports:
+      - "8787:8787"
+    volumes:
+      - tracker-data:/app/data
+      # 使用自訂來源時，取消下一行註解；先建立 sources.json。
+      # - ./sources.json:/app/sources.json:ro
+    restart: unless-stopped
+    # environment:
+    #   TRACKER_FEED_TOKEN: ${TRACKER_FEED_TOKEN}
+    #   TRACKER_REFERENCE_TOKEN: ${TRACKER_REFERENCE_TOKEN}
+volumes:
+  tracker-data:

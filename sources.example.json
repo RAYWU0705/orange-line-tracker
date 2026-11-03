@@ -1,0 +1,23 @@
+{
+  "_說明": "複製成 sources.json；網址與欄位需依取得的官方文件填寫。不要把密鑰寫進此檔。",
+  "fleet": null,
+  "references": [],
+  "_fleet_設定範例": {
+    "name": "高運量列車車廂擁擠度",
+    "url": "https://請填入核准後取得的實際接口",
+    "token_env": "TRACKER_FEED_TOKEN",
+    "items_path": "data",
+    "line_field": "實際路線欄位名稱",
+    "line_value": "O",
+    "fields": {"car": "實際車組編號欄位", "time": "實際更新時間欄位", "run": "實際車次欄位", "station": "實際所在車站欄位", "destination": "實際目的地欄位"},
+    "time_format": "%Y%m%d%H%M%S",
+    "car_map": {"實際車組代碼範例": 401},
+    "kind": "service"
+  },
+  "_references_設定範例": [
+    {"name": "車站時刻表", "url": "https://請填入實際JSON網址", "interval_seconds": 86400, "token_env": "TRACKER_REFERENCE_TOKEN"},
+    {"name": "捷運路網資料", "url": "https://請填入實際JSON網址", "interval_seconds": 86400},
+    {"name": "捷運線型資料", "url": "https://請填入實際JSON網址", "interval_seconds": 86400},
+    {"name": "營運路線資料", "url": "https://請填入實際JSON網址", "interval_seconds": 86400}
+  ]
+}
